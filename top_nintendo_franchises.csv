@@ -1,0 +1,88 @@
+Name,Platform,Year_of_Release,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating,Franchise
+Super Mario Bros.,NES,1985.0,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24,,,,,,,Mario
+Pokemon Red/Pokemon Blue,GB,1996.0,Role-Playing,Nintendo,11.27,8.89,10.22,1.0,31.37,,,,,,,Pokemon
+New Super Mario Bros.,DS,2006.0,Platform,Nintendo,11.28,9.14,6.5,2.88,29.8,89.0,65.0,8.5,431.0,Nintendo,E,Mario
+New Super Mario Bros. Wii,Wii,2009.0,Platform,Nintendo,14.44,6.94,4.7,2.24,28.32,87.0,80.0,8.4,594.0,Nintendo,E,Mario
+Pokemon Gold/Pokemon Silver,GB,1999.0,Role-Playing,Nintendo,9.0,6.18,7.2,0.71,23.1,,,,,,,Pokemon
+Super Mario World,SNES,1990.0,Platform,Nintendo,12.78,3.75,3.54,0.55,20.61,,,,,,,Mario
+Pokemon Diamond/Pokemon Pearl,DS,2006.0,Role-Playing,Nintendo,6.38,4.46,6.04,1.36,18.25,,,,,,,Pokemon
+Super Mario Land,GB,1989.0,Platform,Nintendo,10.83,2.71,4.18,0.42,18.14,,,,,,,Mario
+Super Mario Bros. 3,NES,1988.0,Platform,Nintendo,9.54,3.44,3.84,0.46,17.28,,,,,,,Mario
+Pokemon Ruby/Pokemon Sapphire,GBA,2002.0,Role-Playing,Nintendo,6.06,3.9,5.38,0.5,15.85,,,,,,,Pokemon
+Pokemon Black/Pokemon White,DS,2010.0,Role-Playing,Nintendo,5.51,3.17,5.65,0.8,15.14,,,,,,,Pokemon
+Pokémon Yellow: Special Pikachu Edition,GB,1998.0,Role-Playing,Nintendo,5.89,5.04,3.12,0.59,14.64,,,,,,,Pokemon
+Pokemon X/Pokemon Y,3DS,2013.0,Role-Playing,Nintendo,5.28,4.19,4.35,0.78,14.6,,,,,,,Pokemon
+Animal Crossing: Wild World,DS,2005.0,Simulation,Nintendo,2.5,3.45,5.33,0.86,12.13,86.0,57.0,8.7,242.0,Nintendo,E,Animal Crossing
+Super Mario 64,N64,1996.0,Platform,Nintendo,6.91,2.85,1.91,0.23,11.89,,,,,,,Mario
+Pokemon HeartGold/Pokemon SoulSilver,DS,2009.0,Action,Nintendo,4.34,2.71,3.96,0.76,11.77,,,,,,,Pokemon
+Pokemon Omega Ruby/Pokemon Alpha Sapphire,3DS,2014.0,Role-Playing,Nintendo,4.35,3.49,3.1,0.74,11.68,,,,,,,Pokemon
+Super Mario Galaxy,Wii,2007.0,Platform,Nintendo,6.06,3.35,1.2,0.74,11.35,97.0,73.0,8.9,2147.0,Nintendo,E,Mario
+Super Mario Land 2: 6 Golden Coins,GB,1992.0,Adventure,Nintendo,6.16,2.04,2.69,0.29,11.18,,,,,,,Mario
+Super Mario 3D Land,3DS,2011.0,Platform,Nintendo,4.89,3.0,2.14,0.78,10.81,90.0,82.0,8.4,921.0,Nintendo,E,Mario
+Super Mario All-Stars,SNES,1993.0,Platform,Nintendo,5.99,2.15,2.12,0.29,10.55,,,,,,,Mario
+Pokemon FireRed/Pokemon LeafGreen,GBA,2004.0,Role-Playing,Nintendo,4.34,2.65,3.15,0.35,10.49,,,,,,,Pokemon
+Super Mario 64,DS,2004.0,Platform,Nintendo,5.01,3.07,1.25,0.97,10.3,,,,,,,Mario
+New Super Mario Bros. 2,3DS,2012.0,Platform,Nintendo,3.66,3.14,2.47,0.63,9.9,78.0,70.0,7.2,424.0,Nintendo,E,Mario
+Donkey Kong Country,SNES,1994.0,Platform,Nintendo,4.36,1.71,3.0,0.23,9.3,,,,,,,Donkey Kong
+Animal Crossing: New Leaf,3DS,2012.0,Simulation,Nintendo,2.03,2.36,4.39,0.39,9.16,88.0,70.0,8.7,626.0,Nintendo,E,Animal Crossing
+Pokemon Black 2/Pokemon White 2,DS,2012.0,Role-Playing,Nintendo,2.79,1.72,3.14,0.41,8.07,,,,,,,Pokemon
+Pokémon Platinum Version,DS,2008.0,Role-Playing,Nintendo,2.76,1.72,2.69,0.54,7.72,83.0,46.0,8.5,203.0,Game Freak,E,Pokemon
+The Legend of Zelda: Ocarina of Time,N64,1998.0,Action,Nintendo,4.1,1.89,1.45,0.16,7.6,,,,,,,Zelda
+Super Mario Galaxy 2,Wii,2010.0,Platform,Nintendo,3.56,2.35,0.98,0.62,7.51,97.0,87.0,9.1,1854.0,Nintendo EAD Tokyo,E,Mario
+Super Mario Bros. 2,NES,1988.0,Platform,Nintendo,5.39,1.18,0.7,0.19,7.46,,,,,,,Mario
+The Legend of Zelda: Twilight Princess,Wii,2006.0,Action,Nintendo,3.74,2.14,0.6,0.68,7.15,95.0,73.0,9.0,1658.0,Nintendo,T,Zelda
+Pokemon Sun/Moon,3DS,2016.0,Role-Playing,Nintendo,2.98,1.45,2.26,0.45,7.14,,,,,,,Pokemon
+The Legend of Zelda,NES,1986.0,Action,Nintendo,3.74,0.93,1.69,0.14,6.51,,,,,,,Zelda
+Donkey Kong Country Returns,Wii,2010.0,Platform,Nintendo,3.17,1.79,1.03,0.46,6.44,87.0,77.0,8.6,368.0,Retro Studios,E,Donkey Kong
+Pokémon Emerald Version,GBA,2004.0,Role-Playing,Nintendo,2.57,1.58,2.06,0.21,6.41,76.0,28.0,9.0,222.0,Game Freak,E,Pokemon
+Pokémon Crystal Version,GB,2000.0,Role-Playing,Nintendo,2.55,1.56,1.29,0.99,6.39,,,,,,,Pokemon
+Super Mario Sunshine,GC,2002.0,Platform,Nintendo,4.01,1.26,0.87,0.17,6.31,92.0,61.0,8.6,439.0,Nintendo,E,Mario
+Super Mario Advance,GBA,2001.0,Platform,Nintendo,3.14,1.24,0.91,0.2,5.49,84.0,19.0,7.8,41.0,Nintendo,E,Mario
+Super Mario World,GBA,2001.0,Platform,Nintendo,3.21,1.11,0.95,0.2,5.46,,,,,,,Mario
+Pokemon Stadium,N64,1999.0,Strategy,Nintendo,3.18,1.24,0.94,0.09,5.45,,,,,,,Pokemon
+Pokemon Pinball,GB,1999.0,Misc,Nintendo,3.02,1.12,1.01,0.16,5.31,,,,,,,Pokemon
+Donkey Kong 64,N64,1999.0,Platform,Nintendo,3.33,0.79,1.09,0.06,5.27,,,,,,,Donkey Kong
+New Super Mario Bros. U,WiiU,2012.0,Platform,Nintendo,2.3,1.34,1.27,0.32,5.22,84.0,70.0,8.1,733.0,Nintendo,E,Mario
+Super Mario Bros. 3,GBA,2003.0,Platform,Nintendo,2.93,1.25,0.83,0.2,5.2,,,,,,,Mario
+Super Mario Land 3: Wario Land,GB,1994.0,Platform,Nintendo,2.49,0.98,1.57,0.15,5.19,,,,,,,Mario
+Donkey Kong Country 2: Diddy's Kong Quest,SNES,1995.0,Platform,Nintendo,2.1,0.74,2.2,0.11,5.15,,,,,,,Donkey Kong
+The Legend of Zelda: Phantom Hourglass,DS,2007.0,Action,Nintendo,1.85,1.8,0.95,0.48,5.08,90.0,57.0,8.0,416.0,Nintendo,E,Zelda
+Super Mario Bros.,GB,1999.0,Platform,Nintendo,3.4,1.3,0.15,0.22,5.07,,,,,,,Mario
+Pokemon Mystery Dungeon: Explorers of Time/Explorers of Darkness,DS,2007.0,Role-Playing,Nintendo,1.83,1.19,1.54,0.37,4.93,,,,,,,Pokemon
+Animal Crossing: City Folk,Wii,2008.0,Simulation,Nintendo,1.82,1.12,1.32,0.36,4.62,73.0,50.0,7.6,119.0,Nintendo,E,Animal Crossing
+The Legend of Zelda: A Link to the Past,SNES,1991.0,Action,Nintendo,2.42,0.91,1.15,0.13,4.61,,,,,,,Zelda
+The Legend of Zelda: The Wind Waker,GC,2002.0,Action,Nintendo,2.6,0.99,0.89,0.13,4.6,96.0,80.0,8.9,968.0,Nintendo,E,Zelda
+Zelda II: The Adventure of Link,NES,1987.0,Adventure,Nintendo,2.19,0.5,1.61,0.08,4.38,,,,,,,Zelda
+The Legend of Zelda: Ocarina of Time,3DS,2011.0,Action,Nintendo,2.09,1.31,0.62,0.31,4.33,,,,,,,Zelda
+Super Mario 3D World,WiiU,2013.0,Platform,Nintendo,2.11,1.16,0.73,0.32,4.32,93.0,83.0,9.0,1607.0,Nintendo,E,Mario
+Super Mario World 2: Yoshi's Island,SNES,1995.0,Platform,Nintendo,1.65,0.61,1.76,0.09,4.12,,,,,,,Mario
+The Legend of Zelda: Skyward Sword,Wii,2011.0,Action,Nintendo,2.03,1.16,0.37,0.38,3.95,93.0,81.0,8.0,1958.0,Nintendo,E10+,Zelda
+Donkey Kong Land,GB,1994.0,Platform,Nintendo,1.97,0.76,1.07,0.11,3.91,,,,,,,Donkey Kong
+The Legend of Zelda: Link's Awakening,GB,1992.0,Action,Nintendo,2.21,0.96,0.54,0.13,3.83,,,,,,,Zelda
+Pokémon Trading Card Game,GB,1998.0,Strategy,Nintendo,1.49,0.73,1.38,0.1,3.7,,,,,,,Pokemon
+Pokemon Snap,N64,1999.0,Simulation,Nintendo,2.23,0.68,0.66,0.06,3.63,,,,,,,Pokemon
+Donkey Kong Country 3: Dixie Kong's Double Trouble!,SNES,1996.0,Platform,Nintendo,1.17,0.5,1.75,0.08,3.51,,,,,,,Donkey Kong
+The Legend of Zelda: Majora's Mask,N64,2000.0,Action,Nintendo,1.9,0.67,0.73,0.06,3.36,,,,,,,Zelda
+The Legend of Zelda: Spirit Tracks,DS,2009.0,Action,Nintendo,1.4,0.91,0.74,0.26,3.31,87.0,75.0,7.8,228.0,Nintendo,E10+,Zelda
+Super Mario Maker,WiiU,2015.0,Platform,Nintendo,1.18,0.89,0.94,0.2,3.21,88.0,85.0,8.7,691.0,Nintendo,E,Mario
+Animal Crossing,GC,2001.0,Simulation,Nintendo,1.92,0.16,0.99,0.09,3.15,87.0,42.0,8.9,137.0,Nintendo,E,Animal Crossing
+The Legend of Zelda: A Link Between Worlds,3DS,2013.0,Action,Nintendo,1.4,1.01,0.46,0.23,3.1,91.0,81.0,8.9,1057.0,Nintendo,E,Zelda
+Donkey Kong,GB,1994.0,Platform,Nintendo,1.57,0.62,0.55,0.34,3.07,,,,,,,Donkey Kong
+Animal Crossing: Happy Home Designer,3DS,2015.0,Simulation,Nintendo,0.51,1.02,1.4,0.12,3.05,66.0,60.0,6.9,106.0,Nintendo,E,Animal Crossing
+Super Mario World 2: Yoshi's Island,GBA,2002.0,Platform,Nintendo,1.75,0.45,0.62,0.09,2.91,,,,,,,Mario
+Pokémon Stadium 2,N64,2000.0,Strategy,Nintendo,1.02,0.36,1.13,0.23,2.73,,,,,,,Pokemon
+The Legend of Zelda: A Link to the Past,GBA,2002.0,Action,Nintendo,1.75,0.52,0.33,0.1,2.7,95.0,30.0,9.1,314.0,Capcom,E,Zelda
+Mario vs. Donkey Kong: Mini-Land Mayhem!,DS,2010.0,Puzzle,Nintendo,1.63,0.51,0.35,0.18,2.67,79.0,51.0,7.7,18.0,Nintendo,E,Mario
+Super Mario Bros.: The Lost Levels,NES,1986.0,Platform,Nintendo,0.0,0.0,2.65,0.0,2.65,,,,,,,Mario
+Super Mario All-Stars: Limited Edition,Wii,2010.0,Platform,Nintendo,0.99,0.52,0.92,0.14,2.56,,,,,,,Mario
+Pokémon Colosseum,GC,2003.0,Role-Playing,Nintendo,1.21,0.57,0.7,0.07,2.54,73.0,37.0,8.0,89.0,Genius Sonority Inc.,E,Pokemon
+Donkey Kong Land II,GB,1996.0,Platform,Nintendo,1.39,0.48,0.4,0.08,2.35,,,,,,,Donkey Kong
+The Legend of Zelda: Majora's Mask 3D,3DS,2015.0,Action,Nintendo,1.15,0.55,0.47,0.17,2.34,89.0,82.0,9.0,478.0,GREZZO,E10+,Zelda
+Mario Bros.,NES,1983.0,Platform,Nintendo,0.51,0.12,1.63,0.02,2.28,,,,,,,Mario
+Pokemon Ranger: Shadows of Almia,DS,2008.0,Role-Playing,Nintendo,0.94,0.53,0.62,0.18,2.28,68.0,24.0,8.2,27.0,"HAL Labs, Creatures Inc.",E,Pokemon
+The Legend of Zelda: Link's Awakening DX,GB,1998.0,Adventure,Nintendo,1.0,0.63,0.45,0.13,2.22,,,,,,,Zelda
+Donkey Kong Country,GB,2000.0,Platform,Nintendo,1.04,0.72,0.3,0.13,2.19,,,,,,,Donkey Kong
+Pokemon Ranger,DS,2006.0,Role-Playing,Nintendo,1.28,0.03,0.73,0.12,2.15,69.0,21.0,7.6,50.0,HAL Labs,E,Pokemon
+Pokemon Mystery Dungeon: Red/Blue Rescue Team,GBA,2005.0,Role-Playing,Nintendo,0.71,0.52,0.74,0.08,2.06,,,,,,,Pokemon
+Donkey Kong Country,GBA,2003.0,Platform,Nintendo,1.2,0.48,0.29,0.07,2.04,78.0,26.0,8.9,53.0,Rare Ltd.,E,Donkey Kong
+Pokémon Mystery Dungeon: Blue Rescue Team,DS,2005.0,Role-Playing,Nintendo,1.15,0.04,0.83,0.0,2.02,62.0,34.0,8.1,97.0,ChunSoft,E,Pokemon
